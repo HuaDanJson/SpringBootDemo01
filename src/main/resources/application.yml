@@ -1,0 +1,20 @@
+#service:
+#  port: 8081
+#  context-path: /jason
+#
+#spring:
+#  profiles:
+#    active: dev
+#  datasource:
+#    driver-class-name: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://192.168.200.96:8081/dbgirl
+#    username: root
+#    password: 123456
+#  jpa:
+#    hibernate:
+#      ddl-auto: create
+#    show-sql: true
+
+
+
+

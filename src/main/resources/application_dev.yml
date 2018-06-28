@@ -1,0 +1,12 @@
+service:
+  port: 8081
+  context-path: /jason
+
+cupSize: A
+age: 18
+content: "cupSize: ${cupSize},age:${age}"
+
+girl:
+  cupSize: B(Dev)
+  age: 18
+
